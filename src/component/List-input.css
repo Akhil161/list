@@ -1,0 +1,17 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    box-shadow: 5px 5px 10px;
+    border-radius: 5%;
+    background-color: #AEDBCE;
+    margin: 3% 0;
+    padding: 5%;
+
+}
+
+input{
+    padding: 7px;
+    margin-top: 4px;
+    border-radius: 15px;
+}
