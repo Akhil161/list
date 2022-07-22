@@ -46,7 +46,7 @@ function App() {
         <ListInput inputHandle={{ inputA, inputB }} />
 
         <div className="button">
-          <span
+          <span className="filter"
             style={{
               fontWeight: "bold",
               background: "#F6E3C5",

@@ -54,3 +54,20 @@ button:hover{
 ::-webkit-scrollbar {
   display: none;
 }
+
+@media screen and (max-width:480px) {
+  .all-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .all-input .button{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+}
