@@ -3,7 +3,7 @@ import './List-input.css'
 
 export default function List_input({inputHandle}) {
    const [first, setfirst] = useState("")
-he
+
   return (
     <div className='input-container'>
         <label>Enter Data in list A</label> 
